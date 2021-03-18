@@ -1,0 +1,9 @@
+JICOFO_COMPONENT_SECRET=asdkjasdjh
+JICOFO_AUTH_PASSWORD=aksldalsdj
+JVB_AUTH_PASSWORD=alkdsjaskld
+JVB_STUN_SERVERS=meet-jit-si-turnrelay.jitsi.net:443
+TURNCREDENTIALS_SECRET=askjdhasjkd
+TURN_HOST=coturn.meetrix.io
+STUN_PORT=3478
+TURN_PORT=443
+TURNS_PORT=
