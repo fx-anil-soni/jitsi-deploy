@@ -83,3 +83,6 @@ spec:
               value: Europe/Berlin
             - name: JVB_TCP_HARVESTER_DISABLED
               value: "true"
+          ports:
+            - containerPort: 80
+            - containerPort: 8443
